@@ -4,14 +4,16 @@
 사용 모듈
 ------------
 * 사용중
-    import requests
-    from bs4 import BeautifulSoup
+```
+import requests
+from bs4 import BeautifulSoup
 
-    import json
-    import os
-    import time
-    from google.colab import output
-    from fake_useragent import UserAgent
+import json
+import os
+import time
+from google.colab import output
+from fake_useragent import UserAgent
+```
 * 사용예정
     None
 
